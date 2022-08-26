@@ -21,17 +21,17 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 	
 ## 2. Marco Teórico
 
-#### CAPITULO 11 
+#### CAPITULO 17
 
 
 
-#### CAPITULO 12 
+#### CAPITULO 18 
 
 
 
 ## 3. Explicación y resolución de ejercicios 
 
-#### CAPITULO 11 
+#### CAPITULO 17
 
 #### PROBLEMAS 
 
@@ -65,7 +65,7 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 ##### 
 
-#### CAPITULO 12 
+#### CAPITULO 18
 
 #### PROBLEMAS 
 
