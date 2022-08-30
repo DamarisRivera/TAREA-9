@@ -153,15 +153,7 @@ PARTE 3: CIRCUITOS EN SERIE-PARALELO
 ##### 36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?
 ![image](https://user-images.githubusercontent.com/105671763/187333112-01b61e3c-dd77-4941-855c-5b19b87c4886.png)
 
-##### 38. Diseñe un red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 mH con resistencia de devanado de 5 Ω.
-
-PARTE 4: TEMAS ESPECIALES
-
-##### *SECCIÓN 17–8 Ancho de banda de circuitos resonantes*
-
-##### 40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?
-
-##### 42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.
+	Hay dos frecuencias resonantes en el circuito ya que, se necesita calcular la frecuencia resonante paralela y en serie.
 
 #### CAPITULO 18
 
@@ -201,13 +193,24 @@ PARTE 4: TEMAS ESPECIALES
 ##### 12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
 
 	(a) 1 Hz 
+		Frecuencia rechazada debido a que es menor que 50 Hz.
+	
 	(b) 20 Hz 
+		Frecuencia rechazada debido a que es menor que 50 Hz.
+		
 	(c) 50 Hz 
+		Frecuencia crítica.
+		
 	(d) 60 Hz 
+		Permite pasar esta frecuencia ya que es mayor que 50 Hz.
+	
 	(e) 30 kHz
+		Permite pasar esta frecuencia ya que es mayor que 50 Hz.
 
 ##### 14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent = 10 V).
 ![image](https://user-images.githubusercontent.com/105671763/187334089-4c22881c-2d24-47e1-8b5f-c630fee68931.png)
+
+
 
 ##### 16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
 ![image](https://user-images.githubusercontent.com/105671763/187334123-6b708e77-5bd0-4c15-8426-310ce475fa61.png)
