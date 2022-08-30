@@ -210,18 +210,36 @@ PARTE 3: CIRCUITOS EN SERIE-PARALELO
 ##### 14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent = 10 V).
 ![image](https://user-images.githubusercontent.com/105671763/187334089-4c22881c-2d24-47e1-8b5f-c630fee68931.png)
 
+	(a)
+![image](https://user-images.githubusercontent.com/105671763/187448104-83035ca1-b435-4249-ad7e-e641db8b2a8b.png)
+	
+	(b)
+![image](https://user-images.githubusercontent.com/105671763/187448132-80909b74-6c23-411b-a930-35c6c054fae2.png)
 
+	(c)
+![image](https://user-images.githubusercontent.com/105671763/187448158-f19b31f3-ff51-44b9-ae70-512feb065cd5.png)
+
+	(d)
+![image](https://user-images.githubusercontent.com/105671763/187448177-3882a17f-04ef-4f0e-94c3-bbbf1eab801e.png)
 
 ##### 16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.
 ![image](https://user-images.githubusercontent.com/105671763/187334123-6b708e77-5bd0-4c15-8426-310ce475fa61.png)
+![image](https://user-images.githubusercontent.com/105671763/187448242-95903be9-40bf-4d0c-9712-f8499e9c9174.png)
 
 ##### *SECCIÓN 18–3 Filtros pasabanda*
 
 ##### 18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro.
 ![image](https://user-images.githubusercontent.com/105671763/187334275-43fc9c9b-8822-4e50-ad58-18925a37fff0.png)
+![image](https://user-images.githubusercontent.com/105671763/187448307-76ec34d0-e224-4d47-8dcd-a2d8bb261a86.png)
 
 ##### 20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.
 ![image](https://user-images.githubusercontent.com/105671763/187334388-dea09143-55eb-4f40-9844-92c482bafdd8.png)
+
+	(a)
+![image](https://user-images.githubusercontent.com/105671763/187448602-9eea6bb5-39e6-47b8-b4b9-9194b5f6a107.png)
+
+	(b)
+![image](https://user-images.githubusercontent.com/105671763/187448703-ee050db5-de1c-4b3c-88a9-57bc7ee7fb9b.png)
 
 ##### 22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW = 0 Ω para cada bobina
 ![image](https://user-images.githubusercontent.com/105671763/187334433-40273248-7c5f-43a8-95bd-e22e7d972d62.png)
