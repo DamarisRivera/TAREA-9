@@ -31,7 +31,9 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 #### CAPITULO 18 
 
-
+![image](https://user-images.githubusercontent.com/105671763/187359378-f909332a-024b-41fc-b60b-5e8f6acb134a.png)
+![image](https://user-images.githubusercontent.com/105671763/187359410-eb7df6c8-9b0b-4478-9564-f539d3be8123.png)
+![image](https://user-images.githubusercontent.com/105671763/187359451-ad433323-0d5f-48a0-913b-c6fc003c412c.png)
 
 ## 3. Explicación y resolución de ejercicios 
 
