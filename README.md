@@ -101,21 +101,27 @@ PARTE 2: CIRCUITOS EN PARALELO
 
 ##### 16. Exprese en forma polar la impedancia del circuito de la figura 17-63.
 ![image](https://user-images.githubusercontent.com/105671763/187332198-fd61268b-8114-457b-ac8a-f102dec795e6.png)
+![image](https://user-images.githubusercontent.com/105671763/187435688-6e52cd5e-af3c-4d68-a757-39a35e785947.png)
 
 ##### 18. ¿A qué frecuencia el circuito de la figura 17-63 cambia su característica reactiva (de inductiva a capacitiva o viceversa)?
 ![image](https://user-images.githubusercontent.com/105671763/187332204-d37a2672-6e21-4b4c-8417-18648a30cac0.png)
+![image](https://user-images.githubusercontent.com/105671763/187435734-0b9940c5-b1c6-4c3b-9413-607ce8e3b997.png)
 
 ##### *SECCIÓN 17–5 Análisis de circuitos RLC en paralelo*
 
 ##### 20. Determine la impedancia total del circuito de la figura 17-63 a 50 kHz. 
 ![image](https://user-images.githubusercontent.com/105671763/187332476-aa2f404a-bc27-4637-8ad1-b3450a165951.png)
+![image](https://user-images.githubusercontent.com/105671763/187435790-df036615-2b3b-48b4-8cd5-1d50a298150a.png)
 
 ##### *SECCIÓN 17–6 Resonancia en paralelo*
 
 ##### 22. ¿Cuál es la impedancia de un circuito resonante ideal dispuesto en paralelo (sin resistencia en las ramas)?
 
+	Si la corriente total es de cero, la impedancia total del circuito LC en paralelo es infinitamente grande, es decir la impedancia es máxima a la frecuencia resonante y disminuye a frecuencias más bajas y más altas. 
+
 ##### 24. ¿Cuánta corriente se extrae de la fuente de la figura 17-64 en condición de resonancia? ¿Cuáles son las corrientes inductiva y capacitiva en la frecuencia resonante?
 ![image](https://user-images.githubusercontent.com/105671763/187332525-526595ed-b8da-4634-8b67-9d8f0aae3520.png)
+![image](https://user-images.githubusercontent.com/105671763/187435881-5e3f28b1-27d1-46b7-b495-6b9d1015483f.png)
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
@@ -123,19 +129,27 @@ PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
 ##### 26. Encuentre la impedancia total para cada circuito de la figura 17-65
 ![image](https://user-images.githubusercontent.com/105671763/187332668-6709ac1f-6df2-4153-94cd-2126398e4272.png)
+![image](https://user-images.githubusercontent.com/105671763/187435969-51342434-9439-4683-aabf-7aba1845f2b6.png)
 
 ##### 28. Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en forma polar. 
 ![image](https://user-images.githubusercontent.com/105671763/187332789-affa5b66-3efb-4796-92ea-d4038b9ad26e.png)
+![image](https://user-images.githubusercontent.com/105671763/187436006-2b6194fa-a466-4366-b401-39f193c88f57.png)
+![image](https://user-images.githubusercontent.com/105671763/187436057-a6a8fb68-f3b2-4576-bc72-25bc882bb304.png)
 
 ##### 30. ¿Cuál es la corriente a través de R2 en la figura 17-67?
 ![image](https://user-images.githubusercontent.com/105671763/187332832-4719bddd-d324-42f7-ad7b-b4605f333a3f.png)
+![image](https://user-images.githubusercontent.com/105671763/187436109-a1365ea1-2431-410a-a27c-912002ae2518.png)
+![image](https://user-images.githubusercontent.com/105671763/187436189-9153ccd5-18e6-4c8c-8511-2608a61337fb.png)
 
 ##### 32. Determine la resistencia y la reactancia totales en la figura 17-68.
 ![image](https://user-images.githubusercontent.com/105671763/187332916-b58b2afd-3a4b-433e-8b36-da53597482de.png)
+![image](https://user-images.githubusercontent.com/105671763/187436225-8b2e7bd1-fb86-46b1-b0ed-f3cb72228740.png)
 
 ##### 34. Determine si existe un valor de C que hará Vab = 0 V en la figura 17-69. Si no lo hay, explique la razón.
 ![image](https://user-images.githubusercontent.com/105671763/187333083-9fd0e1e6-2dbb-4128-a470-70665f250958.png)
 
+	No puede ser Vab = 0 V, ya que, la rama LC no presenta resistencia por lo que el voltaje de ab solo pueda tener un ángulo de fase de (0°, 90°, -90°), y que él Va no es igual al Vb en magnitud ni en ángulo de fase.
+	
 ##### 36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?
 ![image](https://user-images.githubusercontent.com/105671763/187333112-01b61e3c-dd77-4941-855c-5b19b87c4886.png)
 
