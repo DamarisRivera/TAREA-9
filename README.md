@@ -10,7 +10,7 @@
   
 ### 1.1 Objetivo General
         
-Analizar y resolver problemas utilizando los conocimientos de los capítulos respectivos a la corriente y voltaje de forma alterna y como funcionan los capacitores, usando la teoría para la correcta aplicación de los temas en los ejercicios prácticos.
+Analizar y resolver problemas utilizando los conocimientos adquiridos de los capítulos de circuitos rcl y Resonancia y filtros pasivos, usando la teoría para la correcta resolución de los ejercicios prácticos.
 	
 ### 1.2 Objetivos Específicos
         
