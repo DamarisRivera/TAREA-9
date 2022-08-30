@@ -22,7 +22,12 @@ Analizar y resolver problemas utilizando los conocimientos de los capítulos res
 
 #### CAPITULO 17
 
-
+![image](https://user-images.githubusercontent.com/105671763/187353122-a7cedd4f-92f5-4957-89f1-e98916a7192e.png)
+![image](https://user-images.githubusercontent.com/105671763/187353146-a4d5ef12-cf4a-421b-86c9-6d149d5f7dca.png)
+![image](https://user-images.githubusercontent.com/105671763/187353164-bd1a06b6-1174-4730-86ff-cbda545cc53c.png)
+![image](https://user-images.githubusercontent.com/105671763/187353187-c1beeff1-b828-45e6-9d2c-1dd2f4f654be.png)
+![image](https://user-images.githubusercontent.com/105671763/187353210-95e5c27c-f5d8-4b0f-9636-71e796ee1d4d.png)
+![image](https://user-images.githubusercontent.com/105671763/187353231-6edd8108-290e-468c-b3d2-84d01a6d2d44.png)
 
 #### CAPITULO 18 
 
